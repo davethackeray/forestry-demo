@@ -27,3 +27,7 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: include
+  template: person
+  label: people
+  name: people
